@@ -1,0 +1,20 @@
+.MetaMaskBtn {
+    padding: 8px 12px;
+    background: black;
+    color: #eee;
+    font-size: 14px;
+    text-align: center;
+    line-height: 40px;
+    font-weight: bold;
+    border-color: transparent;
+    border-radius: 4px;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.Logo {
+    margin-right: 4px;
+}

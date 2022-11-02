@@ -1,0 +1,26 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.Border {
+    width: 400px;
+    height: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Text {
+    color: #333;
+}
+
+.TextContainer {
+    margin-bottom: 4px;
+}
